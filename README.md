@@ -1,6 +1,7 @@
 # OOP
 ỨNG DỤNG QUẢN LÝ SINH VIÊN
 
-Dự án xây dựng một ứng dụng nhỏ gọn để quản lý thông tin sinh viên, môn học và kết quả học tập. Mục tiêu là giúp người dùng thực hiện các thao tác cơ bản như thêm, sửa, xóa, tìm kiếm và xem tổng hợp kết quả một cách rõ ràng, dễ dùng. Sản phẩm hướng tới tính đơn giản, gọn nhẹ và có thể mở rộng về sau
+Hệ thống “Quản lý sinh viên” được xây dựng nhằm hỗ trợ tự động hóa các nghiệp vụ trong môi trường đào tạo, bao gồm: lưu trữ thông tin sinh viên, giáo viên, môn học, lớp học phần và quản lý điểm số. Ứng dụng được phát triển dưới dạng web, sử dụng ngôn ngữ Java với mô hình Servlet/JSP, chạy trên Apache Tomcat và kết nối cơ sở dữ liệu MySQL thông qua thư viện JDBC.
+Dự án cho phép nhiều loại người dùng đăng nhập như Admin – Giáo viên – Sinh viên, mỗi vai trò sẽ có quyền hạn và giao diện tương ứng. Hệ thống đảm bảo tính chính xác, toàn vẹn dữ liệu, dễ sử dụng và dễ mở rộng.
 
 https://docs.google.com/document/d/1Xmsyr9YTMyZ9HNgMU1zzg5G3i7Atoy-RtGESJ0G0MZ0/edit?usp=sharing
