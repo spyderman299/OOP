@@ -103,12 +103,7 @@ Hệ thống quản lý sinh viên là một ứng dụng web đầy đủ tính
 │           │   └── error/                               # Error pages
 │           │       ├── 404.jsp
 │           │       └── 500.jsp
-│           └── index.jsp                                # Redirect to login
-├── compile-new.bat                                      # Compile script
-├── deploy-new.bat                                       # Deploy script
-├── run.bat                                              # Run script (compile + deploy)
-├── start_tomcat-new.bat                                 # Start Tomcat
-├── stop_tomcat-new.bat                                  # Stop Tomcat
+│           └── index.jsp                                # Redirect to login                                
 ├── sql.txt                                              # Database schema and data
 └── README.md                                            # This file
 ```
