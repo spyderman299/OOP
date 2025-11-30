@@ -13,8 +13,8 @@ Hệ thống quản lý sinh viên là một ứng dụng web đầy đủ tính
 - Dashboard với thống kê và biểu đồ trực quan
 - Xử lý exception và logging đầy đủ
 
-## 🛠 Công nghệ sử dụng
-
+##  Công nghệ sử dụng
+Dự án được xây dựng bằng Java Web thuần sử dụng Servlet/JSP chạy trên Apache Tomcat, kết nối cơ sở dữ liệu MySQL thông qua JDBC (MySQL Connector/J), không sử dụng các framework như Spring hay Hibernate. Giao diện được hiện thực bằng JSP, HTML, CSS, JavaScript và một số thư viện JS (Chart.js) để trực quan hóa dữ liệu.
 - **Java**: JDK 21
 - **Web Server**: Apache Tomcat 10.1.49
 - **Database**: MySQL với charset UTF-8
