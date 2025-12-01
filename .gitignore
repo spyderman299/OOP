@@ -1,0 +1,46 @@
+# Compiled class files
+out/
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+!lib/*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+build/
+target/
+bin/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Database config (if contains password)
+# Uncomment if you want to ignore database config
+# src/main/java/config/DatabaseConnection.java
+
